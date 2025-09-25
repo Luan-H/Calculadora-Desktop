@@ -1,10 +1,10 @@
-#  calculadora-desktop 🧮
+#  Calculadora-Desktop 🧮
 
 Uma calculadora de desktop simples, desenvolvida em Java com a biblioteca Swing para a interface gráfica. O projeto implementa as quatro operações aritméticas básicas de forma intuitiva e funcional.
 
 ## Visualização
 
-![Imagem da calculadora em execução](https://i.imgur.com/8a8y7eG.png)
+![Imagem da calculadora em execução](calculadora.png)
 
 > **Nota:** Você pode substituir o link acima por uma captura de tela que você mesmo tirar do projeto em execução.
 
