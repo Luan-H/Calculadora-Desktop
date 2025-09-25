@@ -6,8 +6,6 @@ Uma calculadora de desktop simples, desenvolvida em Java com a biblioteca Swing 
 
 ![Imagem da calculadora em execução](calculadora.png)
 
-> **Nota:** Você pode substituir o link acima por uma captura de tela que você mesmo tirar do projeto em execução.
-
 ---
 
 ## ✨ Funcionalidades
