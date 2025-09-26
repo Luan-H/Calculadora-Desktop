@@ -56,4 +56,4 @@ Após executar o último comando, a janela da calculadora será aberta.
 
 ## 👨‍💻 Autor
 
-Feito com ❤️ por **[Luan Henrique Ribeiro de Sousa]**.
+Feito por **[Luan Henrique Ribeiro de Sousa]**.
